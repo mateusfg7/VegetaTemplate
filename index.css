@@ -18,6 +18,14 @@ body{
   font-family: "Potra";
 }
 
+#top h1 a{
+  text-decoration: none;
+}
+
+#top h1{
+	transition: font-size .2s;
+}
+
 #top h1:hover{
   font-size: 155px;
 }
